@@ -21,27 +21,26 @@ A starter template for Solid that comes preconfigured with [Vite](https://vitejs
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/AR10Dev/solid-tailwind-ts-vite-router/generate)
+[Create a repo from this template on GitHub](https://github.com/agaviria/solid-tailwind-ts-vite-router/generate)
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit AR10Dev/solid-tailwind-ts-vite-router my-app
+npx degit agaviria/solid-tailwind-ts-vite-router my-app
 cd my-app
-npm install # or pnpm install or yarn install
+pnpm install
 ```
 
 ## Checklist
 
 When you use this template, follow the checklist to update your info properly
 
-- [ ] Rename `name`, `version` and `author` field in `package.json`
-- [ ] Change the author name in `LICENSE`
-- [ ] Clean up the READMEs
-- [ ] Optional: Remove the `.github` folder which contains the github actions and the renovate config
-- [ ] Enjoy 😉
+- [x] Rename `name`, `version` and `author` field in `package.json`
+- [x] Change the author name in `LICENSE`
+- [x] Clean up the READMEs
+- [x] Optional: Remove the `.github` folder which contains the github actions and the renovate config
 
 ## Usage
 
