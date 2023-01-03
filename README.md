@@ -33,15 +33,6 @@ cd my-app
 pnpm install
 ```
 
-## Checklist
-
-When you use this template, follow the checklist to update your info properly
-
-- [x] Rename `name`, `version` and `author` field in `package.json`
-- [x] Change the author name in `LICENSE`
-- [x] Clean up the READMEs
-- [x] Optional: Remove the `.github` folder which contains the github actions and the renovate config
-
 ## Usage
 
 ### Development
